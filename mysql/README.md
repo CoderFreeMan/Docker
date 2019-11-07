@@ -1,7 +1,8 @@
 ## docker 安装运行 MySQL，并将数据写入本地磁盘
 ### 1. 前提条件
-前提条件是你已经安装了 Docker 引擎，并且 docker 服务正常运行。
-若没有安装docker请参考[安装docker引擎](https://blog.csdn.net/dejunyang/)
+前提条件是你已经安装了 Docker 引擎，并且 docker 服务正常运行。  
+若没有安装docker请参考[安装docker引擎](https://blog.csdn.net/dejunyang/)  
+注: 本示例基于 MacOS
 
 ### 2. 安装步骤
 #### 2.1 第一步
